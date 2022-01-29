@@ -1,4 +1,4 @@
-name: Git Action Artefacts
+name: Git Action Artifacts
 
 on:
   pull_request:
